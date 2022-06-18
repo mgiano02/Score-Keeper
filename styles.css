@@ -1,0 +1,19 @@
+/* #btn1 {
+    background-color: green;
+}
+
+#btn2 {
+    background-color: blue;
+}
+
+#btn3 {
+    background-color: red;
+} */
+
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
